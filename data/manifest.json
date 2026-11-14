@@ -1,0 +1,701 @@
+{
+  "corpus": "The Federalist Papers (selected single-author papers)",
+  "source_url": "https://www.gutenberg.org/cache/epub/1404/pg1404.txt",
+  "accessed_at": "2026-11-13",
+  "snapshot": "Project Gutenberg eBook #1404, release date 1998-07-01",
+  "filter_field": "author (values stated in each paper's header: Hamilton, Madison, Jay)",
+  "counting_rule": "Plain text has no pages: each normalized unit of >= 1500 characters (consecutive paragraphs of one paper) counts as one page; a short last unit merges into the previous one. Papers are independent source documents.",
+  "documents": [
+    {
+      "source_id": "fed01",
+      "title": "The Federalist No. 1: General Introduction",
+      "path": "starter/data/federalist/fed01.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 1
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "physical_pages": 4,
+      "char_count": 9521
+    },
+    {
+      "source_id": "fed02",
+      "title": "The Federalist No. 2: Concerning Dangers from Foreign Force and Influence",
+      "path": "starter/data/federalist/fed02.txt",
+      "metadata": {
+        "author": "Jay",
+        "paper": 2
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "physical_pages": 5,
+      "char_count": 10145
+    },
+    {
+      "source_id": "fed03",
+      "title": "The Federalist No. 3: The Same Subject Continued (Concerning Dangers From Foreign Force and Influence)",
+      "path": "starter/data/federalist/fed03.txt",
+      "metadata": {
+        "author": "Jay",
+        "paper": 3
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "physical_pages": 4,
+      "char_count": 8829
+    },
+    {
+      "source_id": "fed04",
+      "title": "The Federalist No. 4: The Same Subject Continued (Concerning Dangers From Foreign Force and Influence)",
+      "path": "starter/data/federalist/fed04.txt",
+      "metadata": {
+        "author": "Jay",
+        "paper": 4
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "physical_pages": 5,
+      "char_count": 9795
+    },
+    {
+      "source_id": "fed05",
+      "title": "The Federalist No. 5: The Same Subject Continued (Concerning Dangers From Foreign Force and Influence)",
+      "path": "starter/data/federalist/fed05.txt",
+      "metadata": {
+        "author": "Jay",
+        "paper": 5
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "physical_pages": 4,
+      "char_count": 8342
+    },
+    {
+      "source_id": "fed06",
+      "title": "The Federalist No. 6: Concerning Dangers from Dissensions Between the States",
+      "path": "starter/data/federalist/fed06.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 6
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "physical_pages": 7,
+      "char_count": 13659
+    },
+    {
+      "source_id": "fed09",
+      "title": "The Federalist No. 9: The Union as a Safeguard Against Domestic Faction and Insurrection",
+      "path": "starter/data/federalist/fed09.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 9
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 12132
+    },
+    {
+      "source_id": "fed10",
+      "title": "The Federalist No. 10: The Same Subject Continued (The Union as a Safeguard Against Domestic Faction and Insurrection)",
+      "path": "starter/data/federalist/fed10.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 10
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "physical_pages": 9,
+      "char_count": 18029
+    },
+    {
+      "source_id": "fed11",
+      "title": "The Federalist No. 11: The Utility of the Union in Respect to Commercial Relations and a Navy",
+      "path": "starter/data/federalist/fed11.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 11
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "physical_pages": 7,
+      "char_count": 15087
+    },
+    {
+      "source_id": "fed14",
+      "title": "The Federalist No. 14: Objections to the Proposed Constitution From Extent of Territory Answered",
+      "path": "starter/data/federalist/fed14.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 14
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 12798
+    },
+    {
+      "source_id": "fed15",
+      "title": "The Federalist No. 15: The Insufficiency of the Present Confederation to Preserve the Union",
+      "path": "starter/data/federalist/fed15.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 15
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "physical_pages": 8,
+      "char_count": 18441
+    },
+    {
+      "source_id": "fed23",
+      "title": "The Federalist No. 23: The Necessity of a Government as Energetic as the One Proposed to the Preservation of the Union",
+      "path": "starter/data/federalist/fed23.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 23
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "physical_pages": 4,
+      "char_count": 10874
+    },
+    {
+      "source_id": "fed30",
+      "title": "The Federalist No. 30: Concerning the General Power of Taxation",
+      "path": "starter/data/federalist/fed30.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 30
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 11751
+    },
+    {
+      "source_id": "fed31",
+      "title": "The Federalist No. 31: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "path": "starter/data/federalist/fed31.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 31
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 10340
+    },
+    {
+      "source_id": "fed35",
+      "title": "The Federalist No. 35: The Same Subject Continued (Concerning the General Power of Taxation)",
+      "path": "starter/data/federalist/fed35.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 35
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 13444
+    },
+    {
+      "source_id": "fed37",
+      "title": "The Federalist No. 37: Concerning the Difficulties of the Convention in Devising a Proper Form of Government.",
+      "path": "starter/data/federalist/fed37.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 37
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "physical_pages": 8,
+      "char_count": 16759
+    },
+    {
+      "source_id": "fed38",
+      "title": "The Federalist No. 38: The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed.",
+      "path": "starter/data/federalist/fed38.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 38
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "physical_pages": 7,
+      "char_count": 19643
+    },
+    {
+      "source_id": "fed39",
+      "title": "The Federalist No. 39: The Conformity of the Plan to Republican Principles",
+      "path": "starter/data/federalist/fed39.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 39
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "physical_pages": 8,
+      "char_count": 15646
+    },
+    {
+      "source_id": "fed41",
+      "title": "The Federalist No. 41: General View of the Powers Conferred by The Constitution",
+      "path": "starter/data/federalist/fed41.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 41
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "physical_pages": 9,
+      "char_count": 21146
+    },
+    {
+      "source_id": "fed43",
+      "title": "The Federalist No. 43: The Same Subject Continued (The Powers Conferred by the Constitution Further Considered)",
+      "path": "starter/data/federalist/fed43.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 43
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "physical_pages": 9,
+      "char_count": 20810
+    },
+    {
+      "source_id": "fed45",
+      "title": "The Federalist No. 45: The Alleged Danger From the Powers of the Union to the State Governments.",
+      "path": "starter/data/federalist/fed45.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 45
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "physical_pages": 5,
+      "char_count": 12999
+    },
+    {
+      "source_id": "fed47",
+      "title": "The Federalist No. 47: The Particular Structure of the New Government and the Distribution of Power Among Its Different Parts.",
+      "path": "starter/data/federalist/fed47.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 47
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "physical_pages": 9,
+      "char_count": 17042
+    },
+    {
+      "source_id": "fed48",
+      "title": "The Federalist No. 48: These Departments Should Not Be So Far Separated as to Have No Constitutional Control Over Each Other.",
+      "path": "starter/data/federalist/fed48.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 48
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 11629
+    },
+    {
+      "source_id": "fed51",
+      "title": "The Federalist No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments.",
+      "path": "starter/data/federalist/fed51.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 51
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "physical_pages": 4,
+      "char_count": 11729
+    },
+    {
+      "source_id": "fed62",
+      "title": "The Federalist No. 62: The Senate",
+      "path": "starter/data/federalist/fed62.txt",
+      "metadata": {
+        "author": "Madison",
+        "paper": 62
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "physical_pages": 7,
+      "char_count": 14203
+    },
+    {
+      "source_id": "fed64",
+      "title": "The Federalist No. 64: The Powers of the Senate",
+      "path": "starter/data/federalist/fed64.txt",
+      "metadata": {
+        "author": "Jay",
+        "paper": 64
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "physical_pages": 6,
+      "char_count": 13579
+    },
+    {
+      "source_id": "fed65",
+      "title": "The Federalist No. 65: The Powers of the Senate Continued",
+      "path": "starter/data/federalist/fed65.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 65
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "physical_pages": 5,
+      "char_count": 11913
+    },
+    {
+      "source_id": "fed68",
+      "title": "The Federalist No. 68: The Mode of Electing the President",
+      "path": "starter/data/federalist/fed68.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 68
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "physical_pages": 4,
+      "char_count": 8907
+    },
+    {
+      "source_id": "fed70",
+      "title": "The Federalist No. 70: The Executive Department Further Considered",
+      "path": "starter/data/federalist/fed70.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 70
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "physical_pages": 10,
+      "char_count": 20085
+    },
+    {
+      "source_id": "fed72",
+      "title": "The Federalist No. 72: The Same Subject Continued, and Re-Eligibility of the Executive Considered.",
+      "path": "starter/data/federalist/fed72.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 72
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "physical_pages": 5,
+      "char_count": 12122
+    },
+    {
+      "source_id": "fed78",
+      "title": "The Federalist No. 78: The Judiciary Department",
+      "path": "starter/data/federalist/fed78.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 78
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "physical_pages": 8,
+      "char_count": 18329
+    },
+    {
+      "source_id": "fed84",
+      "title": "The Federalist No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered.",
+      "path": "starter/data/federalist/fed84.txt",
+      "metadata": {
+        "author": "Hamilton",
+        "paper": 84
+      },
+      "exclude_pages": [],
+      "license_or_permission": "Public domain (1787-1788 text); Project Gutenberg eBook #1404, redistributed unmodified apart from splitting by paper",
+      "content_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "physical_pages": 13,
+      "char_count": 24742
+    }
+  ],
+  "total_content_pages": 210
+}

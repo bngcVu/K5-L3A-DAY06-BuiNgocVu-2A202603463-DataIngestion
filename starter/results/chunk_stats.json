@@ -1,0 +1,31 @@
+{
+  "A": {
+    "params": {
+      "chunking": "fixed_size",
+      "size": 500,
+      "overlap": 50,
+      "filter": false
+    },
+    "chunks": 1091,
+    "min_chars": 51,
+    "median_chars": 496,
+    "max_chars": 500,
+    "total_chars": 495621,
+    "approx_tokens": 123905
+  },
+  "B": {
+    "params": {
+      "chunking": "by_paragraph",
+      "max_size": 1000,
+      "min_size": 200,
+      "overlap_sentences": 1,
+      "filter": false
+    },
+    "chunks": 703,
+    "min_chars": 66,
+    "median_chars": 759,
+    "max_chars": 1032,
+    "total_chars": 504388,
+    "approx_tokens": 126097
+  }
+}

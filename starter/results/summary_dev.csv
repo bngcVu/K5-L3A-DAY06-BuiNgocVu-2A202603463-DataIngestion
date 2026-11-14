@@ -1,0 +1,4 @@
+strategy,split,n,hit_at_1,hit_at_3,ms_per_query
+A,dev,15,9/15,12/15,28.9
+B,dev,15,11/15,14/15,25.0
+C,dev,15,11/15,14/15,24.5

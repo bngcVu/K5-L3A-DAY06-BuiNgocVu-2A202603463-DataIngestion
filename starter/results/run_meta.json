@@ -1,0 +1,45 @@
+{
+  "index": {
+    "model": "intfloat/multilingual-e5-small",
+    "dimensions": 384,
+    "sentence_transformers": "5.4.1",
+    "cost_usd": 0,
+    "strategies": {
+      "A": {
+        "chunks": 1091,
+        "rows_before": 1091,
+        "rows_after": 1091,
+        "embed_seconds": 57.95,
+        "store_seconds": 0.54
+      },
+      "B": {
+        "chunks": 703,
+        "rows_before": 703,
+        "rows_after": 703,
+        "embed_seconds": 57.74,
+        "store_seconds": 0.37
+      }
+    }
+  },
+  "updated_at": "2026-11-13T04:56:43+00:00",
+  "eval_dev": {
+    "questions": 15,
+    "ms_per_query": {
+      "A": 28.9,
+      "B": 25.0,
+      "C": 24.5
+    },
+    "model": "intfloat/multilingual-e5-small",
+    "top_k": 3
+  },
+  "eval_test": {
+    "questions": 5,
+    "ms_per_query": {
+      "A": 20.7,
+      "B": 18.8,
+      "C": 28.9
+    },
+    "model": "intfloat/multilingual-e5-small",
+    "top_k": 3
+  }
+}
